@@ -365,7 +365,7 @@ Consistency is evaluated as the variance in output quality across 10 identical r
 
 ---
 
-### 5.3Resource Utilization
+### 5.3 Resource Utilization
 
 ![image](https://github.com/user-attachments/assets/a45ef2b8-9b69-492b-9198-ccf0dfdd23dc)
 
